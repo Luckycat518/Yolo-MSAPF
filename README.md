@@ -1,20 +1,3 @@
-# Yolo-MSAPF
-This project is the source and code for the paper titled “Yolo-MSAPF: Multi-Scale Alignment fusion with Parallel feature Filtering model for high accuracy weld defect detection”. We will upload the source and code after the paper is publicly published.
-
-The first version of the dataset containing the original images appearing in the paper has been released.
-
-### Table of Contents
-![image](https://github.com/Luckycat518/Yolo-MSAPF/blob/main/Cover_image/Dataset-description.jpg)
-
-
-The WSD-DET is collected from a commercial company. Therefore, this dataset is limited to academic use！！！Prohibited for any commercial use！！！
-
-Before the entire dataset is fully released, if you need this dataset to do some research, please contact us. After review and permission by the commercial company, we will provide the dataset to you.
-
-<div align="right">
-  English 
-</div>
-
 # Surface Defect Detection: Dataset & Papers <sup>📌</sup>
 <a href="https://github.com/Luckycat518"><img src="https://img.shields.io/badge/GitHub-@Luckycat518-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
 <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/Computer Vision-000000.svg?logo=GitBook" alt="Computer Vision in Action"></a>
@@ -120,4 +103,19 @@ Use this bibtex to cite this repository:
   howpublished={\url{https://github.com/Charmve/Surface-Defect-Detection}},
 }
 ```
+# Yolo-MSAPF
+This project is the source and code for the paper titled “Yolo-MSAPF: Multi-Scale Alignment fusion with Parallel feature Filtering model for high accuracy weld defect detection”. We will upload the source and code after the paper is publicly published.
 
+The first version of the dataset containing the original images appearing in the paper has been released.
+
+### Table of Contents
+![image](https://github.com/Luckycat518/Yolo-MSAPF/blob/main/Cover_image/Dataset-description.jpg)
+
+
+The WSD-DET is collected from a commercial company. Therefore, this dataset is limited to academic use！！！Prohibited for any commercial use！！！
+
+Before the entire dataset is fully released, if you need this dataset to do some research, please contact us. After review and permission by the commercial company, we will provide the dataset to you.
+
+<div align="right">
+  English 
+</div>
