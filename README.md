@@ -1,3 +1,6 @@
+<div align="right">
+  English 
+</div>
 # Surface Defect Detection: Dataset & Papers <sup>📌</sup>
 <a href="https://github.com/Luckycat518"><img src="https://img.shields.io/badge/GitHub-@Luckycat518-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
 <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/Computer Vision-000000.svg?logo=GitBook" alt="Computer Vision in Action"></a>
@@ -116,6 +119,4 @@ The WSD-DET is collected from a commercial company. Therefore, this dataset is l
 
 Before the entire dataset is fully released, if you need this dataset to do some research, please contact us. After review and permission by the commercial company, we will provide the dataset to you.
 
-<div align="right">
-  English 
-</div>
+
