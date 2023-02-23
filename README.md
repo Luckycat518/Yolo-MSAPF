@@ -52,7 +52,7 @@ WSD-DET can be used for classification and positioning tasks.
 
 <div align=center><img src="https://github.com/Luckycat518/Yolo-MSAPF/blob/main/Cover_image/Dataset-description.jpg"></div>
 
-<p>The WSD-DET contains <b>7580</b> pictures with <b>8</b> types of defects were reserved. The defects for the original unpolished welds include weld_penetration, weld_beading,microporous, hole, incompletely_filled_groove, undercut, crazing and splash. The weld after grinding contains four kinds of defects: hole, undercut, crazing and weld_beading. </p>
+<p>The WSD-DET contains <b>7580</b> pictures with <b>8</b> types of defects. The defects for the original unpolished welds include weld_penetration, weld_beading,microporous, hole, incompletely_filled_groove, undercut, crazing and splash. The weld after grinding contains four kinds of defects: hole, undercut, crazing and weld_beading. </p>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
 
