@@ -9,9 +9,3 @@ The weld surface dataset is collected from a commercial company. Therefore, this
 
 If you need this dataset to do some research, please contact us. After review and permission by the commercial company, we will provide the dataset to you.
 
-！！！！！！Due to the restriction of the confidentiality policy, the detailed information for the industrial detection platform cannot be displayed at present！！！！！！！
-
-We set up a harsh detection environment in lab to test and demonstrate the application capabilities of the Yolo-MSFPA model. 
-
-The hardware platform is show in the following picture.
-![image](https://github.com/Agustinwgq/Yolo-MSAPF/blob/main/Detection-system.jpg)
