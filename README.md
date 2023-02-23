@@ -71,3 +71,11 @@ This paper is still under review......
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
 
+
+<!-- LICENSE -->
+## **License**
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
