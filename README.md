@@ -4,7 +4,7 @@ This project is the source and code for the paper titled “Yolo-MSAPF: Multi-Sc
 The first version of the dataset containing the original images appearing in the paper has been released.
 
 
-![image](https://github.com/Luckycat518/Yolo-MSAPF/blob/main/Cover_images/Dataset-description.jpg)
+![image](https://github.com/Luckycat518/Yolo-MSAPF/blob/main/Cover_image/Dataset-description.jpg)
 
 
 The WSD-DET is collected from a commercial company. Therefore, this dataset is limited to academic use！！！Prohibited for any commercial use！！！
