@@ -15,7 +15,7 @@
 - [Acknowledgements](#acknowledgements)
 - [Download](#download)
 - [Notification](#notification)
-- [Citation](#-citation)
+- [Citation](#citation)
 
 
 ## Introduction
