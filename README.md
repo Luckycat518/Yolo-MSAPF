@@ -12,3 +12,4 @@ If you need this dataset to do some research, please contact us. After review an
 We set up a harsh detection environment in lab to test and demonstrate the application capabilities of the Yolo-MSFPA model. 
 
 The hardware platform is show in the following picture.
+![image](https://github.com/Agustinwgq/Yolo-MSAPF/blob/main/Detection-system1.tif)
