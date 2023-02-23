@@ -14,6 +14,7 @@
   - [Weld Surface Defect: WSD-DET](#1weld-surface-defect-wsd-det)
 - [Notification](#notification)
 - [Citation](#citation)
+- [License](#license)
 
 
 ## Introduction
@@ -62,7 +63,7 @@ WSD-DET can be used for classification and positioning tasks.
 Before the entire dataset is fully released, if you need this dataset to do some research, please contact us. After review and permission by the commercial company, we will provide the dataset to you.</p>
 
 
-If you have any questions or idea, please let me know <p>(email: wgq001@csu.edu.cn)</p>
+If you have any questions or idea, please let me know <p>(email: wgq001@csu.edu.cn; 2013801003@csu.edu.cn)</p>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
 
@@ -73,9 +74,9 @@ This paper is still under review......
 
 
 <!-- LICENSE -->
-## **License**
+## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
