@@ -26,7 +26,7 @@ Before the entire dataset is fully released, if you need this dataset to do some
 - [Key Issues](#1-key-issues-in-surface-defect-detection)
   - [Small Sample Problem](#1small-sample-problem)
   - [Real-time Problem](#2real-time-problem)
-- [Our Datasets](#2-our-dataset-for-industrial-surface-defect-detection)
+- [Our Dataset](#2-our-dataset-for-industrial-surface-defect-detection)
   - [Steel Surface: NEU-CLS](#1steel-surface-neu-cls)
 - [Papers](#4-surface-defect-detection-papers)
 - [Acknowledgements](#acknowledgements)
@@ -91,15 +91,6 @@ NEU-CLS can be used for classification and positioning tasks.
 
 <div align=center><img src="https://user-images.githubusercontent.com/29084184/114502526-82306280-9c5e-11eb-9d60-011ee100e179.png"></div>
 
-### Kaggle - Severstal: Steel Defect Detection
-
-<img align="right" alt="Severstal: Steel Defect Detection" src="https://user-images.githubusercontent.com/29084184/119592872-ddcc3f00-be0b-11eb-9d2e-6b1bc9216c89.png" width="150" title="Severstal: Steel Defect Detection">
-
-Severstal is leading the charge in efficient steel mining and production. They believe the future of metallurgy requires development across the economic, ecological, and social aspects of the industry—and they take corporate responsibility seriously. The company recently created the country’s largest industrial data lake, with petabytes of data that were previously discarded. Severstal is now looking to machine learning to improve automation, increase efficiency, and maintain high quality in their production.
-
-https://www.kaggle.com/c/severstal-steel-defect-detection
-
-<br>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
 
