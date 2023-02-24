@@ -1,4 +1,4 @@
-# Yolo-MSAPF<sup>📌</sup>
+# Yolo-MSAPF：Weld Surface Defect DETection<sup>📌</sup>
 <a href="https://github.com/Luckycat518"><img src="https://img.shields.io/badge/GitHub-@Luckycat518-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
 <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/Computer Vision-000000.svg?logo=GitBook" alt="Computer Vision in Action"></a>
 [![License](https://img.shields.io/github/license/Charmve/Surface-Defect-Detection)](LICENSE)
